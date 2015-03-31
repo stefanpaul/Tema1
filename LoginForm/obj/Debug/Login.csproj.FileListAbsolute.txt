@@ -1,0 +1,41 @@
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Proiect\Tema1\LoginForm\obj\Debug\Login.csprojResolveAssemblyReference.cache
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Proiect\Tema1\LoginForm\obj\Debug\Login.AdminForm.resources
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Proiect\Tema1\LoginForm\obj\Debug\Login.EmployeeForm.resources
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Proiect\Tema1\LoginForm\obj\Debug\Login.Wrong.resources
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Proiect\Tema1\LoginForm\obj\Debug\Login.LoginForm.resources
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Proiect\Tema1\LoginForm\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Proiect\Tema1\LoginForm\obj\Debug\Login.csproj.GenerateResource.Cache
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Proiect\Tema1\LoginForm\bin\Debug\BL.dll
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Proiect\Tema1\LoginForm\bin\Debug\Entities.dll
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Proiect\Tema1\LoginForm\bin\Debug\DAL.dll
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Proiect\Tema1\LoginForm\bin\Debug\MySql.Data.dll
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Proiect\Tema1\LoginForm\bin\Debug\BL.pdb
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Proiect\Tema1\LoginForm\bin\Debug\Entities.pdb
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Proiect\Tema1\LoginForm\bin\Debug\DAL.pdb
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Fails\Tema1\LoginForm\obj\Debug\Login.csprojResolveAssemblyReference.cache
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Fails\Tema1\LoginForm\obj\Debug\Login.AdminForm.resources
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Fails\Tema1\LoginForm\obj\Debug\Login.EmployeeForm.resources
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Fails\Tema1\LoginForm\obj\Debug\Login.LoginForm.resources
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Fails\Tema1\LoginForm\obj\Debug\Login.Wrong.resources
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Fails\Tema1\LoginForm\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Fails\Tema1\LoginForm\obj\Debug\Login.csproj.GenerateResource.Cache
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Fails\Tema1\LoginForm\bin\Debug\Login.exe.config
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Fails\Tema1\LoginForm\bin\Debug\Login.exe
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Fails\Tema1\LoginForm\bin\Debug\Login.pdb
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Fails\Tema1\LoginForm\bin\Debug\BL.dll
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Fails\Tema1\LoginForm\bin\Debug\Entities.dll
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Fails\Tema1\LoginForm\bin\Debug\DAL.dll
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Fails\Tema1\LoginForm\bin\Debug\MySql.Data.dll
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Fails\Tema1\LoginForm\bin\Debug\BL.pdb
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Fails\Tema1\LoginForm\bin\Debug\Entities.pdb
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Fails\Tema1\LoginForm\bin\Debug\DAL.pdb
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Fails\Tema1\LoginForm\obj\Debug\Login.exe
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Fails\Tema1\LoginForm\obj\Debug\Login.pdb
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Proiect\Tema1\LoginForm\bin\Debug\Login.exe.config
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Proiect\Tema1\LoginForm\obj\Debug\Login.exe
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Proiect\Tema1\LoginForm\obj\Debug\Login.pdb
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Proiect\Tema1\LoginForm\bin\Debug\Login.exe
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Proiect\Tema1\LoginForm\bin\Debug\Login.pdb
+C:\Users\Paul\Desktop\AN3\SemII\PS\Lab\Proiect\Tema1\LoginForm\bin\Debug\Login.exe.config
+C:\Users\Paul\Desktop\AN3\SemII\PS\Lab\Proiect\Tema1\LoginForm\obj\Debug\Login.exe
+C:\Users\Paul\Desktop\AN3\SemII\PS\Lab\Proiect\Tema1\LoginForm\obj\Debug\Login.pdb

@@ -1,0 +1,32 @@
+c:\users\paul\documents\visual studio 2013\Projects\LoginForm\LoginForm\bin\Debug\LoginForm.exe.config
+c:\users\paul\documents\visual studio 2013\Projects\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+c:\users\paul\documents\visual studio 2013\Projects\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+c:\users\paul\documents\visual studio 2013\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.csprojResolveAssemblyReference.cache
+c:\users\paul\documents\visual studio 2013\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.Form1.resources
+c:\users\paul\documents\visual studio 2013\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+c:\users\paul\documents\visual studio 2013\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.Cache
+c:\users\paul\documents\visual studio 2013\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.exe
+c:\users\paul\documents\visual studio 2013\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.pdb
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Proiect\LoginForm\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Proiect\LoginForm\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Proiect\LoginForm\LoginForm\obj\Debug\LoginForm.pdb
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Proiect\LoginForm\LoginForm\obj\Debug\LoginForm.csprojResolveAssemblyReference.cache
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Proiect\LoginForm\LoginForm\obj\Debug\LoginForm.AdminForm.resources
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Proiect\LoginForm\LoginForm\obj\Debug\LoginForm.EmployeeForm.resources
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Proiect\LoginForm\LoginForm\obj\Debug\LoginForm.LoginForm.resources
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Proiect\LoginForm\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Proiect\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.Cache
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Proiect\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Proiect\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Proiect\LoginForm\LoginForm\bin\Debug\Entities.dll
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Proiect\LoginForm\LoginForm\bin\Debug\UserService.dll
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Proiect\LoginForm\LoginForm\bin\Debug\DAL.dll
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Proiect\LoginForm\LoginForm\bin\Debug\MySql.Data.dll
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Proiect\LoginForm\LoginForm\bin\Debug\Entities.pdb
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Proiect\LoginForm\LoginForm\bin\Debug\UserService.pdb
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Proiect\LoginForm\LoginForm\bin\Debug\DAL.pdb
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Proiect\LoginForm\LoginForm\obj\Debug\LoginForm.Wrong.resources
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Proiect\LoginForm\LoginForm\bin\Debug\AddService.dll
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Proiect\LoginForm\LoginForm\bin\Debug\AddDAL.dll
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Proiect\LoginForm\LoginForm\bin\Debug\AddService.pdb
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Proiect\LoginForm\LoginForm\bin\Debug\AddDAL.pdb

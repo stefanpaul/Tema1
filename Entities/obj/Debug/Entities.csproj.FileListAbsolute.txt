@@ -1,0 +1,14 @@
+D:\30234\StefanPaul\Lab5\UI\Entities\bin\Debug\Entities.dll
+D:\30234\StefanPaul\Lab5\UI\Entities\bin\Debug\Entities.pdb
+D:\30234\StefanPaul\Lab5\UI\Entities\obj\Debug\Entities.dll
+D:\30234\StefanPaul\Lab5\UI\Entities\obj\Debug\Entities.pdb
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Lab5\UI\Entities\bin\Debug\Entities.dll
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Lab5\UI\Entities\bin\Debug\Entities.pdb
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Lab5\UI\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Lab5\UI\Entities\obj\Debug\Entities.dll
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Lab5\UI\Entities\obj\Debug\Entities.pdb
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Proiect\LoginForm\Entities\bin\Debug\Entities.dll
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Proiect\LoginForm\Entities\bin\Debug\Entities.pdb
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Proiect\LoginForm\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Proiect\LoginForm\Entities\obj\Debug\Entities.dll
+C:\Users\Paul\Desktop\AN3\Sem II\PS\Lab\Proiect\LoginForm\Entities\obj\Debug\Entities.pdb
