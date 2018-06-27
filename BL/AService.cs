@@ -29,6 +29,9 @@ namespace BL
 
         public string readAdd(string addID)
         {
+            string adaad;
+            adaad= addDal.readAdd(addID);
+            return adaad;
         }
 
         public void updateAdd(string addID, string title, string description)
