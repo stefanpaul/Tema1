@@ -13,6 +13,7 @@ namespace BL
         public ADAL addDal;
         public AService()
         {
+
             addDal = new ADAL();
             addDal.UsersDAOMySQL();
         }
